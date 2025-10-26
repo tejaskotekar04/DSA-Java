@@ -5,6 +5,83 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "add_digits_of_the_sum",
+            "request": "launch",
+            "mainClass": "add_digits_of_the_sum",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
+            "type": "java",
+            "name": "recursion1",
+            "request": "launch",
+            "mainClass": "recursion1",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfTwo",
+            "request": "launch",
+            "mainClass": "PowerOfTwo",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome_Check",
+            "request": "launch",
+            "mainClass": "Palindrome_Check",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
+            "type": "java",
+            "name": "Form_a_palindrome",
+            "request": "launch",
+            "mainClass": "Form_a_palindrome",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToOctal",
+            "request": "launch",
+            "mainClass": "DecimalToOctal",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToOctal",
+            "request": "launch",
+            "mainClass": "recursion.DecimalToOctal",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
+            "type": "java",
+            "name": "CoinChange",
+            "request": "launch",
+            "mainClass": "recursion.CoinChange",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
+            "type": "java",
+            "name": "Country",
+            "request": "launch",
+            "mainClass": "Country",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
+            "type": "java",
+            "name": "add_digits_of_the_sum",
+            "request": "launch",
+            "mainClass": "recursion.add_digits_of_the_sum",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
+            "type": "java",
+            "name": "Node",
+            "request": "launch",
+            "mainClass": "Node",
+            "projectName": "DSA-Java_6791ecec"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",

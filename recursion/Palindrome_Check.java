@@ -1,4 +1,3 @@
-package recursion;
 class Palindrome_Check {
     //Recursive util function to check if a string is a palindrome or not
     static boolean isPalindromeUtil(String s, int left, int right) {

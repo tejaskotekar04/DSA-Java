@@ -1,4 +1,3 @@
-package recursion;
 
 class sum_of_digits_of_a_number {
 

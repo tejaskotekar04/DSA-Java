@@ -1,5 +1,4 @@
 //program to find factorial of a number
-package recursion;
 class recursion1 {
 
     //method to find factorial

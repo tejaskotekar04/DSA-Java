@@ -3,7 +3,6 @@
 // You define a function that takes a counter as an argument and prints its value.
 // Then, the function calls itself, passing an incremented counter as the argument.
 // This continues until the counter reaches a certain limit, at which point a base case stops the recursion.
-package recursion;
 class Print_1_to_n {
     static void printNos(int n) {
         if (n > 0) {

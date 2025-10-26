@@ -4,7 +4,6 @@
 Output: 3
 Explanation: "skgeegks" is a palindromic string, which requires 3 insertions.*/
 
-package recursion;
 class Form_a_palindrome {
 //Recursive function to find minimum number of insertions
     static int minRecur(String s, int l, int h) {

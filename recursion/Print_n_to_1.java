@@ -1,4 +1,3 @@
-package recursion;
 
 class Print_n_to_1 {
     //Prints numbers n to 1

@@ -1,5 +1,4 @@
 //Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
-package recursion;
 class add_digits_of_the_sum {
     public static int addDigits(int num) {
 

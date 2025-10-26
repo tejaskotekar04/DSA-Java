@@ -1,5 +1,4 @@
 
-package recursion;
 
 class reverseString {
     public static String reverse(String str){
